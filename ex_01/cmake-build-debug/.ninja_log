@@ -1,0 +1,21 @@
+# ninja log v6
+2	237	7558768455264125	build.ninja	d843e96378f04a44
+6	494	7558810339285388	CMakeFiles/ex_00_breaking_distance.cpp.dir/ex_00_breaking_distance.cpp.obj	29f6c656992d56ce
+15	98	7558810339375646	CMakeFiles/ex_00_breaking_distance.cpp.dir/functions.cpp.obj	a08389cd71233471
+494	623	7558810344156118	ex_00_breaking_distance.cpp.exe	948ceb0bdabd2b01
+6	440	7558810527295388	CMakeFiles/ex_00_breaking_distance.cpp.dir/ex_00_breaking_distance.cpp.obj	29f6c656992d56ce
+440	553	7558810531629970	ex_00_breaking_distance.cpp.exe	948ceb0bdabd2b01
+8	415	7558812155975498	CMakeFiles/ex_00_breaking_distance.cpp.dir/ex_00_breaking_distance.cpp.obj	29f6c656992d56ce
+417	537	7558812160068574	ex_00_breaking_distance.cpp.exe	948ceb0bdabd2b01
+5	409	7558812550210204	CMakeFiles/ex_00_breaking_distance.cpp.dir/ex_00_breaking_distance.cpp.obj	29f6c656992d56ce
+409	517	7558812554259476	ex_00_breaking_distance.cpp.exe	948ceb0bdabd2b01
+5	418	7558812653151051	CMakeFiles/ex_00_breaking_distance.cpp.dir/ex_00_breaking_distance.cpp.obj	29f6c656992d56ce
+418	524	7558812657280012	ex_00_breaking_distance.cpp.exe	948ceb0bdabd2b01
+7	409	7558812730010097	CMakeFiles/ex_00_breaking_distance.cpp.dir/ex_00_breaking_distance.cpp.obj	29f6c656992d56ce
+409	527	7558812734030988	ex_00_breaking_distance.cpp.exe	948ceb0bdabd2b01
+6	411	7558813143618509	CMakeFiles/ex_00_breaking_distance.cpp.dir/ex_00_breaking_distance.cpp.obj	29f6c656992d56ce
+411	520	7558813147668374	ex_00_breaking_distance.cpp.exe	948ceb0bdabd2b01
+7	426	7558813879745761	CMakeFiles/ex_00_breaking_distance.cpp.dir/ex_00_breaking_distance.cpp.obj	29f6c656992d56ce
+426	543	7558813883943315	ex_00_breaking_distance.cpp.exe	948ceb0bdabd2b01
+5	408	7558813989720027	CMakeFiles/ex_00_breaking_distance.cpp.dir/ex_00_breaking_distance.cpp.obj	29f6c656992d56ce
+409	516	7558813993765950	ex_00_breaking_distance.cpp.exe	948ceb0bdabd2b01

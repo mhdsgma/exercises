@@ -1,0 +1,3 @@
+C:/Users/sgma2/Desktop/C++/exercise uni/ex_02/cmake-build-debug/CMakeFiles/ex_01_celsius_fahrenheit_functions.cpp.dir
+C:/Users/sgma2/Desktop/C++/exercise uni/ex_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sgma2/Desktop/C++/exercise uni/ex_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

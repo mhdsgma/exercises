@@ -1,0 +1,3 @@
+C:/Users/sgma2/Desktop/C++/exercise uni/ex_01/cmake-build-debug/CMakeFiles/ex_00_breaking_distance.cpp.dir
+C:/Users/sgma2/Desktop/C++/exercise uni/ex_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sgma2/Desktop/C++/exercise uni/ex_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

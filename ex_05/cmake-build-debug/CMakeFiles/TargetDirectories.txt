@@ -1,0 +1,3 @@
+C:/Users/sgma2/Desktop/C++/exercise uni/ex_05/cmake-build-debug/CMakeFiles/ex_05.cpp.dir
+C:/Users/sgma2/Desktop/C++/exercise uni/ex_05/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sgma2/Desktop/C++/exercise uni/ex_05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
